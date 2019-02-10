@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Mona Lisa's Books ⚚ `,
+    title: `Mona Lisa's`,
     description: `An online shop for books and other knickknacks.`,
     author: `Leo Torres leohtor@gmail.com`,
   },

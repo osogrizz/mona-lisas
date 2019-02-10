@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: monas-bookstore
+  repo: mona-lisas
 
 media_folder: static/assets
 public_folder: /assets
