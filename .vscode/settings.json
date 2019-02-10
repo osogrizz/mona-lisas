@@ -1,0 +1,18 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+    "files.associations": {
+        "*.js": "javascript",
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.run": "onSave",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": false,
+    "gitlens.hovers.enabled": false,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": -1
+}
