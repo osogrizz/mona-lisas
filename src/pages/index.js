@@ -142,8 +142,8 @@ const IndexPage = ( data ) => (
       </Card>
       <Card>
         <Image fluid={data.card} style={{ width: '200px', margin: '0 auto', marginTop: '10px' }} />
-        <h3>Title: Book 1</h3>
-        <p>Author: Book 1</p>
+        <h3>Title: Book 2</h3>
+        <p>Author: Book 2</p>
         <p>Price: $3.00</p>
         <button
           type="submit"
@@ -160,8 +160,8 @@ const IndexPage = ( data ) => (
       </Card>
       <Card>
         <Image fluid={data.card} style={{ width: '200px', margin: '0 auto', marginTop: '10px' }} />
-        <h3>Title: Book 1</h3>
-        <p>Author: Book 1</p>
+        <h3>Title: Book 3</h3>
+        <p>Author: Book 3</p>
         <p>Price: $3.00</p>
         <button
           type="submit"
