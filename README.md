@@ -8,7 +8,7 @@
   Mona's Bookstore
 </h1>
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fec905ec-b643-4b42-81eb-a50d45fc43f9/deploy-status)](https://app.netlify.com/sites/mona-lisas/deploys)
 
 <!-- _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
