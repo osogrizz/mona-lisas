@@ -122,7 +122,62 @@ const IndexPage = ( data ) => (
         <ItemListing key={node.id} item={node} /> 
     ))} */}
 
-      <h1>Hello</h1>
+      <Card>
+        <Image fluid={data.card} style={{ width: '200px', margin: '0 auto', marginTop: '10px' }} />
+        <h3>Title: Book 1</h3>
+        <p>Author: Book 1</p>
+        <p>Price: $3.00</p>
+        <button
+          type="submit"
+          className="snipcart-add-item"
+          data-item-id="1"
+          data-item-name="Book-1"
+          data-item-price="3.00"
+          data-item-weight="2.5"
+          data-item-url="https://pedantic-banach-caf9e2.netlify.com/"
+          data-item-description="A good book"
+        >
+            Add
+        </button>
+      </Card>
+      <Card>
+        <Image fluid={data.card} style={{ width: '200px', margin: '0 auto', marginTop: '10px' }} />
+        <h3>Title: Book 1</h3>
+        <p>Author: Book 1</p>
+        <p>Price: $3.00</p>
+        <button
+          type="submit"
+          className="snipcart-add-item"
+          data-item-id="2"
+          data-item-name="Book-2"
+          data-item-price="4.00"
+          data-item-weight="2.5"
+          data-item-url="https://pedantic-banach-caf9e2.netlify.com/"
+          data-item-description="A good book"
+        >
+            Add
+        </button>
+      </Card>
+      <Card>
+        <Image fluid={data.card} style={{ width: '200px', margin: '0 auto', marginTop: '10px' }} />
+        <h3>Title: Book 1</h3>
+        <p>Author: Book 1</p>
+        <p>Price: $3.00</p>
+        <button
+          type="submit"
+          className="snipcart-add-item"
+          data-item-id="3"
+          data-item-name="Book-3"
+          data-item-price="5.00"
+          data-item-weight="2.5"
+          data-item-url="https://pedantic-banach-caf9e2.netlify.com/"
+          data-item-description="A good book"
+        >
+            Add
+        </button>
+      </Card>
+
+      
     </CardContainer>
 
     <hr style={{ marginTop: '40px'}} />
