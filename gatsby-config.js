@@ -29,13 +29,13 @@ module.exports = {
         apiKey: 'ZWFhMzIyOGUtOTQwMC00YjdiLThlODItM2QyNDU1N2ZkNGFiNjM2NzM4NjIxODY1NDgxNjc0',
       },
     },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'src',
-        path: `${__dirname}/src/`
-      }
-    },
+    // {
+    //   resolve: 'gatsby-source-filesystem',
+    //   options: {
+    //     name: 'src',
+    //     path: `${__dirname}/src/`
+    //   }
+    // },
     // {
     //   resolve: 'gatsby-source-filesystem',
     //   options: {
